@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Azharul Islam 👋, Stundent of Computer science and engineering (CSE) at IUBAT - Dhaka,Bangladesh 
+### Hi there, I'm Muhammad Azharul Islam 👋,Student of Computer science and engineering (CSE) at IUBAT-Dhaka,Bangladesh 
 
 <br/>
 <br/>
