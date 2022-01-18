@@ -1,4 +1,5 @@
-### Hi there, I'm Muhammad Azharul Islam 👋,Student of Computer Science and Engineering (CSE) at IUBAT-Dhaka,Bangladesh 
+### Hi there, I'm Muhammad Azharul Islam 👋, Web Developer at Tele Musketeers.
+
 
 <br/>
 <br/>
