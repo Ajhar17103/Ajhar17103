@@ -1,49 +1,21 @@
-### Hi there, I'm Muhammad Azharul Islam 👋, Web Developer at Tele Musketeers.
-
-
-<br/>
+### Hi there, I'm Muhammad Azharul Islam 👋, Software Engineer at Business Accelerate BD Ltd.
+<br/> 
 <br/>
 
-## I'm a Front-End Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and mange one job as a Front-End Developer.
-- ⚡ Fun fact: I love to Terval & Enjoy Village Environment.
-
-
-<br/>
+### I am a Full-Stack Developer!!
+🌱 I’m continuously learning new technologies, with a focus on scalable solutions using Java, Spring Boot, React.js, and TypeScript.
+👯 I’m open to collaborating on open-source projects and innovative solutions in web development and microservices.
+🥅 2024 Goals: Contribute to open-source projects and develop scalable web applications with modern frameworks like React and Spring Boot.
+⚡ Fun fact: I love exploring new technologies, traveling, and enjoying peaceful moments in nature.
+<br/> 
 <br/>
 
-
-### Running Languages and Tools:
-
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br/>
+### Languages and Tools I Use:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/3b9a279f5cdadbbfab5082d3c28d2c78cd0f5100/topics/typescript/typescript.png" /> <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/4cc989f6a030ac65dc2b5f27b17f1f556b759271/topics/java/java.png" /> <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/d2d5a4d5b8687b6fb9b37d5ebc627b81e8548e97/topics/spring-boot/spring-boot.png" /> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/06db76b11dc64a75879e59e847cbf4fef90e53d3/topics/git/git.png" /> <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/06db76b11dc64a75879e59e847cbf4fef90e53d3/topics/github/github.png" /> <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" /> 
+<br/> 
 <br/>
 
-<br/>
-
-### July-2022 to December-2022: I will start that things :point_down:
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+### Currently Exploring:
+Back-end development Spring Boot, and integrating scalable microservices architectures.
+Improving database management skills with MySQL, Oracle.
 <br />
- 
-
-
-
-
- 
