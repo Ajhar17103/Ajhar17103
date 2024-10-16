@@ -13,7 +13,7 @@
 ### -JavaScript, TypeScript
 ### -React, Redux
 ### -Java, Spring Boot
-### -MySQL, Oracle, MongoDB
+### -MySQL, Oracle
 ### -Git, GitHub, GitLab
 ### -Docker, Redis
 ### -Visual Studio Code, IntelliJ IDEA
