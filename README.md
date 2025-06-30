@@ -1,24 +1,52 @@
-### Hi there, I'm Muhammad Azharul Islam 👋, Software Engineer at Business Accelerate BD Ltd.
-<br/> 
+# Muhammad Azharul Islam 👋
 
-### I am a Full-Stack Developer!!
-🌱 I’m continuously learning new technologies, focusing on scalable solutions using Java, Spring Boot, React.js, and TypeScript.
-👯 I’m open to collaborating on open-source projects and innovative web development and microservices solutions.
-🥅 2024 Goals: Contribute to open-source projects and develop scalable web applications with modern frameworks like React and Spring Boot.
-⚡ Fun fact: I love exploring new technologies, traveling, and enjoying peaceful natural moments.
-<br/> 
+## Software Engineer | Full-Stack Developer  
+**SIMEC System Ltd.**
 
-### Languages and Tools I Use:
-### - HTML5, CSS3, Sass
-### -JavaScript, TypeScript
-### -React, Redux
-### -Java, Spring Boot
-### -MySQL, Oracle
-### -Git, GitHub, GitLab
-### -Docker, Redis
-### -Visual Studio Code, IntelliJ IDEA
-<br/> 
+---
 
-### Currently Exploring:
-Back-end development Spring Boot, and integrating scalable microservices architectures.
-Improving database management skills with MySQL, and Oracle.
+I am a passionate and detail-oriented Full-Stack Developer specializing in building scalable and maintainable web applications and microservices. Experienced in designing and implementing solutions using **Java**, **Spring Boot**, **React.js**, and **TypeScript**.
+
+I continuously embrace modern technologies and best practices to deliver high-quality software that drives business value. Dedicated to writing clean code, architecting robust systems, and fostering effective collaboration.
+
+---
+
+## 🚀 Core Competencies & Technologies
+
+- **Frontend:** React, Redux, JavaScript, TypeScript  
+- **Backend:** Java, Spring Boot, RESTful APIs, Microservices  
+- **Databases:** MySQL, Oracle  
+- **DevOps & Tools:** Docker, Redis, Git (GitHub, GitLab), CI/CD pipelines  
+- **IDEs:** IntelliJ IDEA, Visual Studio Code  
+
+---
+
+## 🎯 Professional Focus
+
+- Architecting and developing **scalable microservices** with Spring Boot  
+- Implementing secure authentication & authorization (JWT, OAuth2, Spring Authorization Server)  
+- Optimizing database performance and data integrity with MySQL and Oracle  
+- Automating deployments and containerization using Docker and Docker Compose  
+- Applying Clean Architecture and Domain-Driven Design principles  
+
+---
+
+## 🎯 2025 Goals
+
+- Contribute to impactful open-source projects  
+- Build cloud-native, scalable web applications  
+- Master advanced microservices patterns and security best practices  
+
+---
+
+## 🌱 Personal Interests
+
+When I’m not coding, I enjoy exploring emerging technologies, traveling, and finding inspiration in nature’s tranquility.
+
+---
+
+### 📫 Connect with me:  
+[GitHub](https://github.com/Ajhar17103) | [Portfolio](https://ajhar17103.github.io/react-portfolio/) | [LinkedIn](https://www.linkedin.com/in/muhammad-azharul-islam)
+
+---
+
