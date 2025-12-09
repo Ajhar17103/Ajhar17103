@@ -30,6 +30,6 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 - Master advanced microservices patterns and security best practices  
 
 
-### 📫 Connect with me:  
+## 📫 Connect with me
 [GitHub](https://github.com/Ajhar17103) | [Portfolio](https://ajhar17103.github.io/react-portfolio/) | [LinkedIn](https://www.linkedin.com/in/muhammad-azharul-islam)
 
