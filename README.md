@@ -23,18 +23,12 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 - Automating deployments and containerization using Docker and Docker Compose  
 - Applying Clean Architecture and Domain-Driven Design principles  
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - Contribute to impactful open-source projects  
 - Build cloud-native, scalable web applications  
 - Master advanced microservices patterns and security best practices  
 
-
-## 🌱 Personal Interests
-
-When I’m not coding, I enjoy exploring emerging technologies, travelling, and finding inspiration in nature’s tranquillity.
-
----
 
 ### 📫 Connect with me:  
 [GitHub](https://github.com/Ajhar17103) | [Portfolio](https://ajhar17103.github.io/react-portfolio/) | [LinkedIn](https://www.linkedin.com/in/muhammad-azharul-islam)
