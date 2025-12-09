@@ -39,5 +39,3 @@ When I’m not coding, I enjoy exploring emerging technologies, travelling, and 
 ### 📫 Connect with me:  
 [GitHub](https://github.com/Ajhar17103) | [Portfolio](https://ajhar17103.github.io/react-portfolio/) | [LinkedIn](https://www.linkedin.com/in/muhammad-azharul-islam)
 
----
-
