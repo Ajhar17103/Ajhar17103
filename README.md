@@ -5,7 +5,7 @@
 
 ---
 
-I am a passionate and detail-oriented Full-Stack Developer specializing in building scalable and maintainable web applications and microservices. Experienced in designing and implementing solutions using **Java**, **Spring Boot**, **React.js**, and **TypeScript**.
+I am a passionate and detail-oriented Full-Stack Developer specialising in building scalable and maintainable web applications and microservices. Experienced in designing and implementing solutions using **Java**, **Spring Boot**, **React.js**, and **TypeScript**.
 
 I continuously embrace modern technologies and best practices to deliver high-quality software that drives business value. Dedicated to writing clean code, architecting robust systems, and fostering effective collaboration.
 
@@ -13,11 +13,12 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 
 ## 🚀 Core Competencies & Technologies
 
-- **Frontend:** React, Redux, JavaScript, TypeScript  
+- **Frontend:** React, Next, Redux, JavaScript, TypeScript  
 - **Backend:** Java, Spring Boot, RESTful APIs, Microservices  
-- **Databases:** MySQL, Oracle  
+- **Databases:** MySQL, PostgreSQL, Oracle  
 - **DevOps & Tools:** Docker, Redis, Git (GitHub, GitLab), CI/CD pipelines  
-- **IDEs:** IntelliJ IDEA, Visual Studio Code  
+- **IDEs:** IntelliJ IDEA, Visual Studio Code
+- **Others:** SSO, JWT, OAuth2, Jasper,  
 
 ---
 
@@ -25,7 +26,7 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 
 - Architecting and developing **scalable microservices** with Spring Boot  
 - Implementing secure authentication & authorization (JWT, OAuth2, Spring Authorization Server)  
-- Optimizing database performance and data integrity with MySQL and Oracle  
+- Optimising database performance and data integrity with MySQL and Oracle  
 - Automating deployments and containerization using Docker and Docker Compose  
 - Applying Clean Architecture and Domain-Driven Design principles  
 
@@ -41,7 +42,7 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 
 ## 🌱 Personal Interests
 
-When I’m not coding, I enjoy exploring emerging technologies, traveling, and finding inspiration in nature’s tranquility.
+When I’m not coding, I enjoy exploring emerging technologies, travelling, and finding inspiration in nature’s tranquillity.
 
 ---
 
