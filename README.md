@@ -15,8 +15,6 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 - **IDEs:** IntelliJ IDEA, Visual Studio Code
 - **Others:** SSO, JWT, OAuth2, Jasper,  
 
----
-
 ## 🎯 Professional Focus
 
 - Architecting and developing **scalable microservices** with Spring Boot  
@@ -25,15 +23,12 @@ I continuously embrace modern technologies and best practices to deliver high-qu
 - Automating deployments and containerization using Docker and Docker Compose  
 - Applying Clean Architecture and Domain-Driven Design principles  
 
----
-
 ## 🎯 2025 Goals
 
 - Contribute to impactful open-source projects  
 - Build cloud-native, scalable web applications  
 - Master advanced microservices patterns and security best practices  
 
----
 
 ## 🌱 Personal Interests
 
