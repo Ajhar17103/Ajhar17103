@@ -1,10 +1,10 @@
 # Muhammad Azharul Islam 👋
-
 ## Software Engineer | Full-Stack Developer , ***SIMEC System Ltd.*** 
 
-I am a passionate and detail-oriented Full-Stack Developer specialising in building scalable and maintainable web applications and microservices. Experienced in designing and implementing solutions using **Java**, **Spring Boot**, **React.js**, **Next.js**, and **TypeScript**.
+I am a passionate, detail-oriented Full-Stack Developer specialising in building scalable, maintainable web applications and microservices. Experienced in designing and implementing solutions using **Java**, **Spring Boot**, **React.js**, **Next.js**, and **TypeScript**.
 
 I continuously embrace modern technologies and best practices to deliver high-quality software that drives business value. Dedicated to writing clean code, architecting robust systems, and fostering effective collaboration.
+###
 
 ## 🚀 Core Competencies & Technologies
 
